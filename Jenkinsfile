@@ -39,13 +39,23 @@ pipeline {
                     if (isUnix()) {
                         sh '''
                             mkdir -p outputs/metrics outputs/plots
-                            docker run --rm -v "$WORKSPACE/outputs:/app/outputs" "${IMAGE_NAME}"
+                            CONTAINER_NAME="sdss-ml-pipeline-${BUILD_NUMBER}"
+                            docker rm -f "$CONTAINER_NAME" >/dev/null 2>&1 || true
+                            docker create --name "$CONTAINER_NAME" "${IMAGE_NAME}" >/dev/null
+                            docker start -a "$CONTAINER_NAME"
+                            docker cp "$CONTAINER_NAME:/app/outputs/." outputs/
+                            docker rm -f "$CONTAINER_NAME"
                         '''
                     } else {
                         bat '''
                             if not exist outputs\\metrics mkdir outputs\\metrics
                             if not exist outputs\\plots mkdir outputs\\plots
-                            docker run --rm -v "%WORKSPACE%\\outputs:/app/outputs" %IMAGE_NAME%
+                            set CONTAINER_NAME=sdss-ml-pipeline-%BUILD_NUMBER%
+                            docker rm -f %CONTAINER_NAME% >nul 2>nul
+                            docker create --name %CONTAINER_NAME% %IMAGE_NAME% >nul
+                            docker start -a %CONTAINER_NAME%
+                            docker cp %CONTAINER_NAME%:/app/outputs/. outputs/
+                            docker rm -f %CONTAINER_NAME%
                         '''
                     }
                 }
