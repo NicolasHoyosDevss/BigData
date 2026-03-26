@@ -319,3 +319,6 @@ Requisito importante:
 - el agente de Jenkins debe tener Docker disponible
 
 Si mas adelante tu Jenkins corre dentro de contenedores, nodos especificos o credenciales corporativas, el archivo puede ajustarse a ese entorno sin cambiar el pipeline de Python.
+
+### Cambios
+Va el primero
