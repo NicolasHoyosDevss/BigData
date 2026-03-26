@@ -1,0 +1,8 @@
+Phase: phase_5
+Dataset: sdss_sample.csv
+Raw rows: 1000
+Cleaned rows: 1000
+Classification accuracy: 0.9700
+Regression MSE: 0.2873
+Regression R2: 0.5448
+Clustering silhouette score: 0.4946

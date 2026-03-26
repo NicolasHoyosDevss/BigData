@@ -1,0 +1,10 @@
+.git
+.gitignore
+.venv
+venv
+.uv-cache
+__pycache__
+*/__pycache__
+outputs/metrics
+outputs/plots
+
