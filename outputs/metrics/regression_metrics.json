@@ -1,0 +1,24 @@
+{
+  "model_name": "LinearRegression",
+  "notes": [
+    "This model is a baseline linear regressor for redshift prediction.",
+    "Negative predictions may appear because linear regression is not bounded to non-negative outputs."
+  ],
+  "features": [
+    "u",
+    "g",
+    "r",
+    "i",
+    "z",
+    "snr_r",
+    "extinction_r"
+  ],
+  "target": "redshift",
+  "train_samples": 800,
+  "test_samples": 200,
+  "metrics": {
+    "mse": 0.28734656244017853,
+    "r2": 0.5447887409071941,
+    "test_samples": 200
+  }
+}

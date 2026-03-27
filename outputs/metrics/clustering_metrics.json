@@ -1,0 +1,39 @@
+{
+  "model_name": "KMeans",
+  "n_clusters": 3,
+  "features": [
+    "u",
+    "g",
+    "r",
+    "i",
+    "z",
+    "redshift",
+    "snr_r",
+    "extinction_r"
+  ],
+  "metrics": {
+    "silhouette_score": 0.4945666471623275,
+    "cluster_sizes": {
+      "cluster_0": 389,
+      "cluster_1": 350,
+      "cluster_2": 261
+    }
+  },
+  "cluster_vs_class": {
+    "cluster_0": {
+      "Galaxy": 350,
+      "QSO": 39,
+      "Star": 0
+    },
+    "cluster_1": {
+      "Galaxy": 0,
+      "QSO": 0,
+      "Star": 350
+    },
+    "cluster_2": {
+      "Galaxy": 0,
+      "QSO": 261,
+      "Star": 0
+    }
+  }
+}

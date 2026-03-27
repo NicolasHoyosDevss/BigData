@@ -1,0 +1,200 @@
+{
+  "phase": "phase_5",
+  "dataset_path": "sdss_sample.csv",
+  "raw_data": {
+    "shape": {
+      "rows": 1000,
+      "columns": 9
+    },
+    "columns": [
+      "u",
+      "g",
+      "r",
+      "i",
+      "z",
+      "redshift",
+      "class",
+      "snr_r",
+      "extinction_r"
+    ],
+    "dtypes": {
+      "u": "float64",
+      "g": "float64",
+      "r": "float64",
+      "i": "float64",
+      "z": "float64",
+      "redshift": "float64",
+      "class": "object",
+      "snr_r": "float64",
+      "extinction_r": "float64"
+    },
+    "null_values": {
+      "u": 0,
+      "g": 0,
+      "r": 0,
+      "i": 0,
+      "z": 0,
+      "redshift": 0,
+      "class": 0,
+      "snr_r": 0,
+      "extinction_r": 0
+    },
+    "duplicated_rows": 0,
+    "class_distribution": {
+      "Galaxy": 350,
+      "Star": 350,
+      "QSO": 300
+    }
+  },
+  "cleaned_data": {
+    "shape": {
+      "rows": 1000,
+      "columns": 9
+    },
+    "columns": [
+      "u",
+      "g",
+      "r",
+      "i",
+      "z",
+      "redshift",
+      "class",
+      "snr_r",
+      "extinction_r"
+    ],
+    "dtypes": {
+      "u": "float64",
+      "g": "float64",
+      "r": "float64",
+      "i": "float64",
+      "z": "float64",
+      "redshift": "float64",
+      "class": "object",
+      "snr_r": "float64",
+      "extinction_r": "float64"
+    },
+    "null_values": {
+      "u": 0,
+      "g": 0,
+      "r": 0,
+      "i": 0,
+      "z": 0,
+      "redshift": 0,
+      "class": 0,
+      "snr_r": 0,
+      "extinction_r": 0
+    },
+    "duplicated_rows": 0,
+    "class_distribution": {
+      "Galaxy": 350,
+      "Star": 350,
+      "QSO": 300
+    }
+  },
+  "classification": {
+    "model_name": "KNeighborsClassifier",
+    "n_neighbors": 5,
+    "features": [
+      "u",
+      "g",
+      "r",
+      "i",
+      "z",
+      "redshift",
+      "snr_r",
+      "extinction_r"
+    ],
+    "target": "class",
+    "train_samples": 700,
+    "test_samples": 300,
+    "metrics": {
+      "accuracy": 0.9766666666666667,
+      "labels": [
+        "Galaxy",
+        "QSO",
+        "Star"
+      ],
+      "confusion_matrix": [
+        [
+          105,
+          0,
+          0
+        ],
+        [
+          7,
+          83,
+          0
+        ],
+        [
+          0,
+          0,
+          105
+        ]
+      ],
+      "test_samples": 300
+    }
+  },
+  "regression": {
+    "model_name": "LinearRegression",
+    "notes": [
+      "This model is a baseline linear regressor for redshift prediction.",
+      "Negative predictions may appear because linear regression is not bounded to non-negative outputs."
+    ],
+    "features": [
+      "u",
+      "g",
+      "r",
+      "i",
+      "z",
+      "snr_r",
+      "extinction_r"
+    ],
+    "target": "redshift",
+    "train_samples": 800,
+    "test_samples": 200,
+    "metrics": {
+      "mse": 0.28734656244017853,
+      "r2": 0.5447887409071941,
+      "test_samples": 200
+    }
+  },
+  "clustering": {
+    "model_name": "KMeans",
+    "n_clusters": 3,
+    "features": [
+      "u",
+      "g",
+      "r",
+      "i",
+      "z",
+      "redshift",
+      "snr_r",
+      "extinction_r"
+    ],
+    "metrics": {
+      "silhouette_score": 0.4945666471623275,
+      "cluster_sizes": {
+        "cluster_0": 389,
+        "cluster_1": 350,
+        "cluster_2": 261
+      }
+    },
+    "cluster_vs_class": {
+      "cluster_0": {
+        "Galaxy": 350,
+        "QSO": 39,
+        "Star": 0
+      },
+      "cluster_1": {
+        "Galaxy": 0,
+        "QSO": 0,
+        "Star": 350
+      },
+      "cluster_2": {
+        "Galaxy": 0,
+        "QSO": 261,
+        "Star": 0
+      }
+    }
+  }
+}

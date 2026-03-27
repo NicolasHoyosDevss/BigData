@@ -1,0 +1,6004 @@
+{
+  "projection_2d": [
+    {
+      "component_1": -3.127306776822083,
+      "component_2": -0.5300895463903217,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.344385844947379,
+      "component_2": 0.9720185286695084,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.419587310652439,
+      "component_2": 0.3483021886576765,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.5256967123439367,
+      "component_2": -0.7839480767861389,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.1321822391122236,
+      "component_2": 1.5853158630860236,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.313342963873316,
+      "component_2": -0.1687766517113971,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.3657902042287713,
+      "component_2": 0.29207038635733085,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.6383415223817863,
+      "component_2": 0.8575665471063232,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.309626088237433,
+      "component_2": 1.0739308093643771,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.4668157355257785,
+      "component_2": -0.853461749603504,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.16103763898397,
+      "component_2": 1.602120180019341,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.479067836139124,
+      "component_2": -0.2564231857755246,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.788189003158923,
+      "component_2": -0.7546002555985041,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.717492164518347,
+      "component_2": 0.6746865659942927,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.3138486089938333,
+      "component_2": 1.328550148221602,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.533326334454003,
+      "component_2": 1.0733121898054776,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.827641300569855,
+      "component_2": -2.0954794941827757,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.493601156955073,
+      "component_2": 0.597285237228526,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.5158515723653885,
+      "component_2": -0.021343898140322892,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.806987861500238,
+      "component_2": -1.3368196780023496,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.9630280794606865,
+      "component_2": -0.05421621486134853,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 14.134053366323569,
+      "component_2": 4.219435944051078,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.2254053477640774,
+      "component_2": -0.199691688493715,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.932197608500225,
+      "component_2": 0.10005882278546352,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.463026412765203,
+      "component_2": 2.4872724378049043,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.1813231534707365,
+      "component_2": -1.250452589010493,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.708846626760822,
+      "component_2": 0.4164575919855835,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.92711352046069,
+      "component_2": 1.1765918191029314,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.787455730583918,
+      "component_2": 0.09957751469565324,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.466507044338538,
+      "component_2": 1.760933300643039,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.086350287044606,
+      "component_2": -1.0121518820596052,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.186943437260753,
+      "component_2": -1.4704173907915532,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.156853284844129,
+      "component_2": -0.9355380713830144,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.200159306239787,
+      "component_2": -0.34675336496840714,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.1732074376803627,
+      "component_2": 0.44551576025370565,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.21372027412257,
+      "component_2": 0.17184037331170288,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.514109330678526,
+      "component_2": -0.26183446344128214,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.8366728802888623,
+      "component_2": -0.933465409751804,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.9907518927351084,
+      "component_2": 0.8483592863438858,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.084901295118205,
+      "component_2": -1.6000758778380515,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 3.852467162616527,
+      "component_2": -2.9135878556338355,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.831747818118821,
+      "component_2": -1.1517089920198984,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 10.245123981176803,
+      "component_2": 2.018086388804477,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.394585509444596,
+      "component_2": 0.9034619891536195,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.784699474835448,
+      "component_2": -1.9386864327807416,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.474349916760582,
+      "component_2": -0.32389145374991557,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.8546855513842,
+      "component_2": -0.14152444858397928,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.2643988539680464,
+      "component_2": 0.327060248641196,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.569309403584832,
+      "component_2": -0.5060842118802924,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.5028965963854404,
+      "component_2": 0.44499882498199383,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.0461171121115758,
+      "component_2": 0.6748954919633121,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.17719601523606,
+      "component_2": 0.999983912002314,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 9.009800085450532,
+      "component_2": 1.0219760498740058,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8305374400089818,
+      "component_2": -1.224032287776474,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.791753247131377,
+      "component_2": 0.8289252651447896,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.067493382748721,
+      "component_2": -1.251054886627081,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.0985911369536137,
+      "component_2": 0.10207520730783415,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.820703055720156,
+      "component_2": 1.029557870378433,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.148151190347988,
+      "component_2": 0.6178010202776534,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.122740927974657,
+      "component_2": -0.018978709500750313,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.7623149727680465,
+      "component_2": -0.3291308519087792,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.294824590737105,
+      "component_2": -0.6668116458415057,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.2747937816226074,
+      "component_2": -0.22823764092805732,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.332296677517851,
+      "component_2": -0.7000616253822969,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.748990392823309,
+      "component_2": -1.2387064941107084,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.1205257981898047,
+      "component_2": -0.5626348168099469,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.92347219610442,
+      "component_2": -1.3665656337252656,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.112062171444393,
+      "component_2": 0.4685391660743434,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.959035764911009,
+      "component_2": -0.4379595950127566,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.4796418396778144,
+      "component_2": -0.5714246231173377,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.820968273190074,
+      "component_2": 2.2530236263655183,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.1524302300502143,
+      "component_2": 0.8444887450639698,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.109236913100634,
+      "component_2": -0.9778888437806046,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.116744015231621,
+      "component_2": 0.21195972086448478,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.579560368625306,
+      "component_2": -1.388217365514656,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 13.877940641429834,
+      "component_2": 4.823670112867198,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.741336738310544,
+      "component_2": -1.2262395065167553,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 12.037417794154289,
+      "component_2": 3.0780607635457855,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.236257389288873,
+      "component_2": -1.2984478471712748,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.192156762188787,
+      "component_2": 2.227580298590702,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.7949465649946497,
+      "component_2": 0.16504751803843476,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 11.542066448577774,
+      "component_2": 3.0654242432293017,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.405326694180475,
+      "component_2": -0.3646542201818903,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.821934051628553,
+      "component_2": 1.470581217234141,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.164883573520083,
+      "component_2": 1.5975421149058633,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.517761831775653,
+      "component_2": 0.2191271477713883,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.58370861341135,
+      "component_2": 0.12906585759101574,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.349606690195461,
+      "component_2": 0.2775588440859451,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.9247549344776935,
+      "component_2": 0.023504015618598828,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.025854334260481,
+      "component_2": 0.35648892225516704,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.7978035413189595,
+      "component_2": -0.4864559099537189,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.5205457838125245,
+      "component_2": 1.2645870329034494,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.1776288829910353,
+      "component_2": 0.3115077615481283,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.079942868998763,
+      "component_2": -0.7033319074070263,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.596036933551314,
+      "component_2": -0.09364491466872948,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.974012781529545,
+      "component_2": -0.8828463161382487,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.734817259720973,
+      "component_2": -0.039382049306986744,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 9.932086332518114,
+      "component_2": 1.6618031155507467,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.505567033502285,
+      "component_2": -1.863785966346363,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.3627742423854485,
+      "component_2": 0.6097645502579638,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.655092431152777,
+      "component_2": 0.7479830588202105,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.9472127503063845,
+      "component_2": -0.3736650341538734,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.613072990767961,
+      "component_2": 0.43090179590128486,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.580836412774383,
+      "component_2": -2.1169727388622803,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.5554287882803486,
+      "component_2": -0.76651864445234,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.106829262154939,
+      "component_2": -0.7083257543864718,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.908988988800761,
+      "component_2": 0.097133992932946,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -6.050671557116406,
+      "component_2": -0.2807238340056273,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.3136899258627235,
+      "component_2": -1.6806717871754842,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.127005394819406,
+      "component_2": 1.1303657200891166,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.4140278432559334,
+      "component_2": -0.2398071494845624,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.153875586121554,
+      "component_2": 1.1374654744200612,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.1178086853787015,
+      "component_2": -0.06795091891208926,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.1791341608193875,
+      "component_2": 0.9961446188932115,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.060796201882111,
+      "component_2": -1.1726376430068939,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.1340082535386315,
+      "component_2": -1.3877824162406824,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 11.25830595331551,
+      "component_2": 2.4496453429299763,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.452420948068617,
+      "component_2": 0.8969037005632785,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.1806215560732625,
+      "component_2": 0.5090814612456711,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.960458256847689,
+      "component_2": -0.21408662415476698,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.685661075781624,
+      "component_2": 0.09680738204821182,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.637996790801374,
+      "component_2": -0.32149013782007074,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.4220728631730495,
+      "component_2": 0.5738749509751955,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.5679347589275565,
+      "component_2": -1.3324300314439128,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.440538819914122,
+      "component_2": -0.14410288860802467,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.5465723127191,
+      "component_2": 0.4814085153883525,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.6899383562144656,
+      "component_2": -0.8708289919127594,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.8655969592764663,
+      "component_2": -0.21588192576883358,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.869831825066406,
+      "component_2": 0.10044128263038488,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.5709014869036046,
+      "component_2": 1.0220109230315657,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.8153283072218755,
+      "component_2": -0.3582623372151872,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.069942752324373,
+      "component_2": 0.13525280147777607,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.70008193388944,
+      "component_2": -0.6256751496715012,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.5191692618573533,
+      "component_2": 1.0677020052248025,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.3914419419693616,
+      "component_2": -1.3452413549283122,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.692189649994075,
+      "component_2": -1.3622252661878136,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.8196991920241,
+      "component_2": 1.0379280807851359,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.30371507022731,
+      "component_2": 1.9025678317850137,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.3656544503608865,
+      "component_2": -1.2007151227895392,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.625623087062813,
+      "component_2": -2.6153750266332523,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.231837171686594,
+      "component_2": -2.427729280694294,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.550341794965398,
+      "component_2": 1.812763635239648,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.455282027055979,
+      "component_2": -0.19479229285876443,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.889001673235247,
+      "component_2": 0.5133053452550058,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.088944311950538,
+      "component_2": 0.4671760027041003,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.613799804139816,
+      "component_2": 0.7125100711235888,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.2402207644507754,
+      "component_2": 1.3585454584500525,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.668853519676746,
+      "component_2": 0.19115988408192663,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.2945645107529753,
+      "component_2": 1.3598485685579504,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.598637187839623,
+      "component_2": -2.255116713461078,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.1681836169742628,
+      "component_2": 0.22229842968025793,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 11.097964130645972,
+      "component_2": 2.6595933416522755,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.7854651318473707,
+      "component_2": 0.7536510115402635,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.908088129571679,
+      "component_2": -0.640805844314805,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.901357854303988,
+      "component_2": -0.8222665922790142,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.700250235427642,
+      "component_2": -0.7883250333613248,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.550378279418341,
+      "component_2": 1.8254572213092288,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.058821676937942,
+      "component_2": 0.27061406620448025,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.353056790773882,
+      "component_2": -0.30075383274764533,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.725072765422215,
+      "component_2": 0.49274686717992466,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.162559205206703,
+      "component_2": -0.3290549123512676,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.337113179406732,
+      "component_2": 1.2566906885652571,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.617454810214216,
+      "component_2": -0.24959344416996743,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.1164937754217483,
+      "component_2": 0.09503158445446047,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.79066553781885,
+      "component_2": -0.08368718014024523,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.5170134566944675,
+      "component_2": 0.23300456007078907,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.835540356956585,
+      "component_2": -1.8094646674108574,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.1251290698769356,
+      "component_2": 0.713082878295694,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.196483817194643,
+      "component_2": 0.3025297093373993,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.959462443164567,
+      "component_2": -2.2810030581822502,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.7287085351265254,
+      "component_2": -0.911744173736885,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.7114986226931492,
+      "component_2": 1.2447910663101567,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.6104147898840155,
+      "component_2": 0.0003017817532864342,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.796957595719391,
+      "component_2": 0.4680384558287187,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.3268177489750954,
+      "component_2": -0.8393924394909504,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.1359023893382574,
+      "component_2": -0.07675743635277144,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.344370595049266,
+      "component_2": 0.9739527799532866,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.4213813782386415,
+      "component_2": -1.066614704454608,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.6676224902338657,
+      "component_2": 1.6589602729417123,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.484885093086259,
+      "component_2": 0.14003956382961036,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.9736875938130325,
+      "component_2": -0.38011436107881025,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.7155828279933836,
+      "component_2": -0.8926585006736047,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.626301892539434,
+      "component_2": 0.17359959865898844,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.425271299806706,
+      "component_2": 0.09426381740929912,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -6.147649923306844,
+      "component_2": 0.05931416669037759,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.747559058079106,
+      "component_2": 0.38794529839805847,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.3739698728667573,
+      "component_2": -0.37178756544533087,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.836482778555446,
+      "component_2": -0.2718357373888338,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.875260524546036,
+      "component_2": -0.06257054469011791,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.587958520821548,
+      "component_2": 0.6201703720141722,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.649366284563513,
+      "component_2": 0.7285659432305636,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.269083809575378,
+      "component_2": -0.5483390935788393,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.644488984239869,
+      "component_2": 0.3912068421854613,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.322759227563587,
+      "component_2": 0.777782932513901,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.575977774813554,
+      "component_2": 0.35065176973715495,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.176511639627,
+      "component_2": 0.31521322355902015,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.944202486607722,
+      "component_2": -1.2822518411016475,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.924054008435424,
+      "component_2": -1.4205561479882576,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.687216301324373,
+      "component_2": 0.13601585339511502,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.609293002089396,
+      "component_2": -0.9158311908666619,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.409698744132202,
+      "component_2": -1.3642952465033247,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.472637463591065,
+      "component_2": 0.5875015666236791,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.6197739676022067,
+      "component_2": -0.14094479869408616,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.4750526442447978,
+      "component_2": -0.4371655997672974,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.427823051473489,
+      "component_2": 0.08130006161599823,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.0300765592723273,
+      "component_2": 0.3546225573049213,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.203177852308979,
+      "component_2": -2.8772744451814134,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.590403514736167,
+      "component_2": 1.1359479667248564,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.712026888771824,
+      "component_2": -1.0605241878278875,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.674196051000333,
+      "component_2": 1.0351248847713919,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 10.38651772821329,
+      "component_2": 2.132770911022739,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.840805377542341,
+      "component_2": -1.8894821226582366,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.511957451426863,
+      "component_2": 1.0375571700634296,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.239761581389658,
+      "component_2": 0.9027570065008632,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.1166156605808677,
+      "component_2": -1.3905780251556834,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.168615258160561,
+      "component_2": -0.45505359940153767,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.5034431993097215,
+      "component_2": 0.016767450378267768,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 14.5361020379011,
+      "component_2": 3.82716322438457,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.3387296481757325,
+      "component_2": -0.08459926465440759,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.9611163897001944,
+      "component_2": 0.9245907588378799,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.1958328545178905,
+      "component_2": -2.2663976464630196,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.765952861991604,
+      "component_2": 1.0275893850688362,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.908723142146041,
+      "component_2": 0.7131236094810944,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.502516282239773,
+      "component_2": -0.9151419665539393,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.618492170748453,
+      "component_2": 0.6647228313009919,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.610260402324306,
+      "component_2": 0.7113660418596197,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.149986832075781,
+      "component_2": 0.25927369128915245,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.6220080933773495,
+      "component_2": -0.5865606848255851,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.676226962212375,
+      "component_2": 1.2503309156345495,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.1465349466805765,
+      "component_2": -0.21043395537140697,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.658385855829229,
+      "component_2": 0.02763821047037851,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.585257103850594,
+      "component_2": 0.22070282849242062,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.638354779728477,
+      "component_2": -0.2101605753881799,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.434861404635811,
+      "component_2": -0.8419314907144511,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.625933871957839,
+      "component_2": -0.6794774440247977,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.158178454345772,
+      "component_2": -0.31756571728676874,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.004584504298928,
+      "component_2": -1.2153643353486316,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8264140643775164,
+      "component_2": 1.2995246694257148,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 9.295809725533562,
+      "component_2": 1.4355559837522875,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.474593933043774,
+      "component_2": -0.6203872148176899,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.758140425915077,
+      "component_2": -1.3866930759328682,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.906349184538041,
+      "component_2": -0.5137703654581713,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.790118697113435,
+      "component_2": -0.0037428567247843603,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.334224828120206,
+      "component_2": 0.24097532100996233,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.122377958488924,
+      "component_2": -2.858995889592144,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.986535128941825,
+      "component_2": -2.526440592060503,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.0658830705817444,
+      "component_2": 0.6552731252521653,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.162323036110888,
+      "component_2": -0.13138635770033602,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.152651203887997,
+      "component_2": -2.5461560463732624,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.014456589802435,
+      "component_2": 0.1772999818559029,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.461104911007095,
+      "component_2": -1.5429713683713828,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.841961712067494,
+      "component_2": -0.4516389972300132,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.687244358569735,
+      "component_2": -0.07085720384615968,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.463829452858139,
+      "component_2": 0.5528266780494349,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.6091722445532213,
+      "component_2": -0.6117967476599588,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.790658902397074,
+      "component_2": -1.9906439786225292,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.4597273669466944,
+      "component_2": 0.6761734885447268,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.584863627267477,
+      "component_2": 1.0953740855243979,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.777494822012965,
+      "component_2": 1.3147053674883509,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 10.08351758334977,
+      "component_2": 1.8302968908251245,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.539355989074405,
+      "component_2": 1.4472192591153643,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.348356101600714,
+      "component_2": -0.8374664597763868,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.453284145401661,
+      "component_2": -1.254630907454974,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.247187467719051,
+      "component_2": 0.6599455810490227,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.0373719726573025,
+      "component_2": 0.05517276750257594,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.046623081704745,
+      "component_2": 1.4892167386592305,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.37414042740798,
+      "component_2": 0.5979932236847532,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.705682084660573,
+      "component_2": -0.25914735043311765,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.4669665716026454,
+      "component_2": 0.01600232883439645,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.5762603628237244,
+      "component_2": -0.1950824828325537,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.090545025205959,
+      "component_2": -0.8216582765586509,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.549655682068229,
+      "component_2": 2.7487822934715,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.067950914227726,
+      "component_2": 0.5384502820291814,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.020443236322922,
+      "component_2": -2.9144167557802305,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.806820536853042,
+      "component_2": 0.007814275986298469,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.333006220755252,
+      "component_2": -0.9138821945825484,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.202885953503787,
+      "component_2": -0.9084139783886869,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.456467392887024,
+      "component_2": -0.5271324348754831,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.350984410608954,
+      "component_2": -1.6735033969571091,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.455597856533867,
+      "component_2": 2.185322430513061,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.6341652808964717,
+      "component_2": -0.28780528280184114,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -6.400809882352778,
+      "component_2": -0.7237654884442719,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.824443667377695,
+      "component_2": -1.6463039350159576,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.174769510858267,
+      "component_2": -0.002441870772713628,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.046358689163855,
+      "component_2": -1.3658902145414444,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.886338020346553,
+      "component_2": 1.2524398080440236,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.0474533782952555,
+      "component_2": -0.8725693837904913,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.973517139019952,
+      "component_2": 0.199320577788491,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.647109657932875,
+      "component_2": -0.13845783926329602,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.239387707977826,
+      "component_2": 0.4637502233446753,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.748483992684246,
+      "component_2": 0.5768676295894224,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.784999347309061,
+      "component_2": 0.003726189131235458,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.9125958336344304,
+      "component_2": -0.00040194993901110365,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.7813752557406506,
+      "component_2": -0.26080146945547966,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.146313663949634,
+      "component_2": 0.6433135921132589,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -0.7893851107790084,
+      "component_2": 0.9131950566363543,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.9061311107555454,
+      "component_2": 1.120543731494685,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.0765560408373247,
+      "component_2": 0.25990484725094376,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.682301141662777,
+      "component_2": -1.920424312682762,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.761267075889677,
+      "component_2": 0.270912529530861,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.978077211802759,
+      "component_2": -0.9746349799792426,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.410968030364163,
+      "component_2": 0.7075102038563514,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.325298252273898,
+      "component_2": -0.7185090457151446,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.575819090493713,
+      "component_2": 0.483437628215313,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.401987754490815,
+      "component_2": 0.0020159288327334934,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -6.201086079600042,
+      "component_2": -0.19377031870124029,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 11.64460179627563,
+      "component_2": 2.526640471573245,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.2321117333066542,
+      "component_2": -0.3424642409155041,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.994284711977706,
+      "component_2": -0.01639627471470817,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.6931356549403027,
+      "component_2": 0.35676259679954825,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.129823411188795,
+      "component_2": 0.1590547488481775,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.001401715256044,
+      "component_2": -0.656493664960486,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.3870386279966525,
+      "component_2": -0.5198325315098984,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.78675359024993,
+      "component_2": 0.445056472953965,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.636312410035348,
+      "component_2": -1.2021267888585356,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.193865561832791,
+      "component_2": -0.9016777910807576,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.238852351097623,
+      "component_2": -0.4062685669631847,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.2702053363285213,
+      "component_2": -0.1174133137929374,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.747240783386506,
+      "component_2": 0.7819898827091549,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.693945434757054,
+      "component_2": -1.9224441266472567,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 11.73681486658707,
+      "component_2": 2.886352020175373,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.026620202642889,
+      "component_2": 0.469363382956665,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.920700715305456,
+      "component_2": -0.17571493965286322,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.4395950603498573,
+      "component_2": 0.8323648473900036,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.036377670799961,
+      "component_2": 0.19079977825520444,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.844880163917949,
+      "component_2": -1.4638601037111982,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.1493001425268945,
+      "component_2": -0.7631172144586884,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.2371521655921995,
+      "component_2": 0.7506929187097597,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.09905794711101,
+      "component_2": -0.08238782355832086,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.820053044977487,
+      "component_2": -0.6314000774941704,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -6.189479256755501,
+      "component_2": 0.21310007780115114,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.129549818911524,
+      "component_2": -1.7503901997298925,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.528267999759688,
+      "component_2": 0.8090067777607786,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.1673427817583306,
+      "component_2": 0.1865147732007486,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.475599005672956,
+      "component_2": 0.9622108245682597,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 10.917887981332335,
+      "component_2": 1.9289846493338842,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.809420409488336,
+      "component_2": 0.17377158268198656,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.2406485472703714,
+      "component_2": -0.2689172098870003,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.562610500372209,
+      "component_2": -0.48123648379558404,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.0860636668011754,
+      "component_2": -0.16270643573391652,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.8763066012701195,
+      "component_2": -0.49702722245761066,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.320758016842703,
+      "component_2": 0.7797335774052954,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.962261874252428,
+      "component_2": -1.5725470445255425,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.31347646064777,
+      "component_2": 0.5070813734505464,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.064290401334466,
+      "component_2": 0.5284920828865509,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.130658414032583,
+      "component_2": -0.2939180687809966,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.105246920600862,
+      "component_2": -1.0633278516189435,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.099933589883854,
+      "component_2": 1.0086120009708068,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.3866431787833235,
+      "component_2": -0.6620639389790739,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.265369526231467,
+      "component_2": 0.8644615065379568,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.38875749395339,
+      "component_2": -1.8302119672256723,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.530001929156656,
+      "component_2": 1.8195957871005604,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -6.394406469865853,
+      "component_2": -0.20689745736007126,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.059202436080968,
+      "component_2": -1.1444545671821231,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 3.3146527509171584,
+      "component_2": -2.9901915272752646,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.406598575181559,
+      "component_2": -1.2798046717247686,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.300969735938706,
+      "component_2": -1.1298544420614078,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8979011145037283,
+      "component_2": -0.34035317185555414,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.239490866174563,
+      "component_2": -0.5060694102300545,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.090691129702535,
+      "component_2": 0.6889382488855773,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.525496398453667,
+      "component_2": -0.8957978259399582,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.251954606555323,
+      "component_2": -1.0502193089335208,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.683157288217695,
+      "component_2": 0.057352407434443364,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.846581662750987,
+      "component_2": -0.1713600745549897,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.76219004097646,
+      "component_2": 0.5836036798014916,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.683875766164734,
+      "component_2": 1.1190137860514966,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.3955078501418505,
+      "component_2": 0.397250542314616,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.634047607777733,
+      "component_2": 0.9237498448607084,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.310636986945564,
+      "component_2": 0.26290192881490526,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.832018494773013,
+      "component_2": 0.27895718561097027,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.700439690307632,
+      "component_2": -1.133293845493128,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.510863703535708,
+      "component_2": 0.11534189786826943,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.281547715656655,
+      "component_2": -0.9387364971700194,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.614522986190323,
+      "component_2": -0.9108267746499266,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.193032732990032,
+      "component_2": 1.2446975295294322,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.173214995497446,
+      "component_2": 0.3519966773859622,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.3258875653553837,
+      "component_2": 1.8924428678208045,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.727777140614324,
+      "component_2": -2.512789249638601,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.5210382595180825,
+      "component_2": 0.7540989022058753,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.119717043168148,
+      "component_2": 0.7538941254312448,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.373683410037979,
+      "component_2": -0.6570624250918726,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.853568567244952,
+      "component_2": 0.6194326811860762,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.584199807985055,
+      "component_2": 0.25407246109654125,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.66456950770478,
+      "component_2": 0.8741711808689132,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.287767852565132,
+      "component_2": -0.9766974160207624,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.067621024066966,
+      "component_2": -0.7459446324792225,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.5751031054693314,
+      "component_2": -0.6770756828670699,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 11.680728590984891,
+      "component_2": 3.131525109711845,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.717740248770127,
+      "component_2": 0.8325974346892195,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.972187169274395,
+      "component_2": 1.3493293798796913,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.5486276593159,
+      "component_2": -0.6087024989611365,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.889745093611349,
+      "component_2": 0.6001847877872422,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8978609213993742,
+      "component_2": -0.46780118233859724,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.089953943626553,
+      "component_2": -0.18111201614019734,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.062876216252313,
+      "component_2": -0.8412593290342301,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.366649186143167,
+      "component_2": 0.5566644802280365,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.711585910028674,
+      "component_2": -0.8330759105060679,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.1654904802671773,
+      "component_2": 0.5324212961713854,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.038850729772708,
+      "component_2": 1.57106030090155,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -6.005352630980802,
+      "component_2": -0.09251895983361891,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.0568319795040475,
+      "component_2": -1.349033473584612,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.3749372598288367,
+      "component_2": -0.22724521908131123,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.5772655629183525,
+      "component_2": -0.8828955599542425,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.9125125415026307,
+      "component_2": 0.06480144226294016,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.093259466993526,
+      "component_2": -0.4979917901227253,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.8648022905886954,
+      "component_2": -0.05981341662923256,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.568495711802775,
+      "component_2": 0.9743947390646142,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.287721577929193,
+      "component_2": -0.7294233469122702,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.269800485046595,
+      "component_2": 1.6125164776430836,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.977504200173554,
+      "component_2": 0.4262672567191572,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.889390259485438,
+      "component_2": -1.1250237545889021,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.524611172641336,
+      "component_2": 0.8144472015768969,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.870950693803689,
+      "component_2": 0.3284430060073831,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.293242226695167,
+      "component_2": 0.04792400627962223,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.662010413538585,
+      "component_2": 1.3546954956266788,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.174916000798497,
+      "component_2": 1.152104863953987,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.031607255353272,
+      "component_2": -0.9170779679229852,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.425115863053886,
+      "component_2": 0.3623590827198342,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.780407604152671,
+      "component_2": -1.8692126988118574,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.1678340472736153,
+      "component_2": -0.18344109654547935,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.960208687622881,
+      "component_2": 0.1614429330128928,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.202943939091117,
+      "component_2": 0.915278637720867,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.918567117009779,
+      "component_2": 1.4563355705297312,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.8009466318799703,
+      "component_2": 0.04567018724564065,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.654465617186066,
+      "component_2": -0.47011206810657313,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.529791327767967,
+      "component_2": -0.8832954332077136,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.567903105465186,
+      "component_2": -2.282908878177814,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.49830771935003,
+      "component_2": 0.0789548445496493,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.4943454393378275,
+      "component_2": -0.2029445287348608,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.9842425562705595,
+      "component_2": -0.35329854719708464,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.599798680125074,
+      "component_2": 0.34371379819667425,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.938528911833851,
+      "component_2": -0.2255137323881442,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.478379961404297,
+      "component_2": -0.012752835708191412,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.164608713716561,
+      "component_2": -1.7246866219985435,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.870778203148793,
+      "component_2": 0.007579524553165129,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.685731624543514,
+      "component_2": -0.1604205290458296,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.631850381378104,
+      "component_2": -1.117694771807649,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.218387589327985,
+      "component_2": -0.842019307251114,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.343613375813867,
+      "component_2": 0.2563079978187659,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.331453563062535,
+      "component_2": -0.5043693199347032,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.488480297146085,
+      "component_2": -1.0545296106586193,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.5186980087960755,
+      "component_2": -0.30894909273116866,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.315596439155893,
+      "component_2": 0.24161028543699814,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.614665446799904,
+      "component_2": -0.4173876568585797,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.817432379143776,
+      "component_2": -0.01154140805213899,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.197103471023954,
+      "component_2": -0.08507076600701424,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.96742435943127,
+      "component_2": -0.8398756406434771,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.4503319610365635,
+      "component_2": -0.031701047147905115,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.4222861379428764,
+      "component_2": 0.12799442823584428,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.272185856849646,
+      "component_2": -1.0675945816337347,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.9337417796546923,
+      "component_2": -0.6678779400688128,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.9480666194501275,
+      "component_2": 1.424251798120828,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.2097713096624876,
+      "component_2": -0.3534898554519543,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.402010888828047,
+      "component_2": -1.3763794445167647,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.164376115111242,
+      "component_2": -0.44020746816552503,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.5408163080031745,
+      "component_2": 0.4275136476553669,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.990421991189866,
+      "component_2": 0.5162093031580284,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.5868275732550217,
+      "component_2": -0.23343101422748447,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.8575830062468235,
+      "component_2": 0.05990561084404078,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.521565342342303,
+      "component_2": -0.3108109486561119,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.919624572491819,
+      "component_2": -2.1595888093449673,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.39077093990724,
+      "component_2": -2.2658130367921956,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.4300060286818965,
+      "component_2": -0.24223615577877666,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.6970951948109985,
+      "component_2": 0.2389494155597447,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.0983383536417364,
+      "component_2": -0.28219195215334736,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.602397887220256,
+      "component_2": 0.05262218463137458,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.6551332755215835,
+      "component_2": -1.3875873115707478,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.913802193298757,
+      "component_2": -0.7372872874329417,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.616384732810399,
+      "component_2": -1.6899338815929852,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.4751400999655715,
+      "component_2": -0.35488710395785006,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.9846467232824416,
+      "component_2": -0.7013085091629989,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.065683451294091,
+      "component_2": -1.5084099007839882,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.189598481333746,
+      "component_2": 0.10380384779819707,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.843400433796397,
+      "component_2": 1.158854637519518,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.985988211972911,
+      "component_2": 1.1449854124677756,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.663573466590961,
+      "component_2": 1.59939044056091,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.148614711472035,
+      "component_2": 0.4542290121737267,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.2727436790406284,
+      "component_2": 1.6769355419320746,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.7646236886986166,
+      "component_2": -0.1317276260327418,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.6407095422678992,
+      "component_2": -0.09668279258131918,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.979615274608502,
+      "component_2": -0.3276669054241239,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.854822769990102,
+      "component_2": 1.6856954354447495,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.199790425287736,
+      "component_2": -0.05184498242758906,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.888115460181467,
+      "component_2": -1.059586569728296,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.6995622613649672,
+      "component_2": -0.6116421221327428,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.267848916751543,
+      "component_2": 2.195089519260044,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.314482112128406,
+      "component_2": 0.07519780538694221,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.69964343926057,
+      "component_2": -1.1688771420676218,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.972276200777864,
+      "component_2": 0.6253559897390986,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.7396557323098936,
+      "component_2": -0.043591453043809736,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.22930478815228,
+      "component_2": -0.14457561623202508,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.1293974958846213,
+      "component_2": -0.1133876832602212,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.856616803237955,
+      "component_2": 0.7943996801960367,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.961609518825979,
+      "component_2": 0.009668474863921972,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.5888923163033386,
+      "component_2": 0.10680893226654575,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 11.390802977267136,
+      "component_2": 2.5792457531287454,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.842835313129635,
+      "component_2": 0.052735568860164506,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.235508831816286,
+      "component_2": -0.33829345497264285,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.6317981575007146,
+      "component_2": 0.002664477514912278,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.2888568659534165,
+      "component_2": -0.03856116202759807,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.120383470507033,
+      "component_2": -1.1094573425654417,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.749310565097697,
+      "component_2": -1.9749749815550928,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.544796323790319,
+      "component_2": -1.0966297846692612,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.427752366480885,
+      "component_2": 0.1941309572395511,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.629343970040207,
+      "component_2": 0.9552358088698014,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.870908394179615,
+      "component_2": 0.3142922309726117,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.672066132042092,
+      "component_2": 0.4931876821718788,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.8583709143486598,
+      "component_2": 0.1725682921615288,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.786872715961824,
+      "component_2": 0.25566596430774524,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.699930829158163,
+      "component_2": 0.17551010505538756,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.541464175410945,
+      "component_2": -1.3199412310370917,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.074962321262804,
+      "component_2": 0.5001247288039679,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.222824370354807,
+      "component_2": -1.2208978301560265,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.573528593359919,
+      "component_2": 0.5238828478847637,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 14.871509052947276,
+      "component_2": 5.968626183273656,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.7504173346890113,
+      "component_2": 1.7661878864796137,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.812311768550687,
+      "component_2": 1.1064927152446202,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.268512480817252,
+      "component_2": 1.0457523908251503,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.926193124268348,
+      "component_2": 0.504412704438792,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 9.007414440898696,
+      "component_2": 1.287005552100517,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.016315766079803,
+      "component_2": -0.46137310767820594,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.18490346828599,
+      "component_2": -0.6664224028505927,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.897519763744228,
+      "component_2": 0.5210532499565659,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.128332972861389,
+      "component_2": -1.1201164067324427,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.091139379631244,
+      "component_2": -0.0006403044908793731,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.854909060644257,
+      "component_2": -1.2974302124445671,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.59019300717501,
+      "component_2": 0.1760778929082889,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.4715622971827464,
+      "component_2": -1.732212612975104,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.5480490836180394,
+      "component_2": -0.9961081733597794,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 11.458863840354132,
+      "component_2": 2.917526020249909,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.873569260551916,
+      "component_2": 0.10172884336273569,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.983459109829937,
+      "component_2": 0.9178271728178728,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.113741551024402,
+      "component_2": -0.5166261062100759,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.325458048911331,
+      "component_2": -2.732640299898705,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.766872272332197,
+      "component_2": 1.4886525768034318,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.834738868999434,
+      "component_2": -1.1751244840609303,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.298484394551652,
+      "component_2": 0.8085965439289353,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.745621322258021,
+      "component_2": 0.9384773199947603,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8811657711158993,
+      "component_2": 0.6453623279734941,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.2958002833759483,
+      "component_2": -0.4383869243034795,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 15.180729284074179,
+      "component_2": 4.48827817882929,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.9781893535743915,
+      "component_2": -1.4607590391798837,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.5050255814509175,
+      "component_2": -1.4511792356043145,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.765354042229021,
+      "component_2": -0.5500116974901061,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.866586917672628,
+      "component_2": 0.40405605421599233,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.5675633802972015,
+      "component_2": 0.35748683571183193,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.217540899185966,
+      "component_2": -0.35691564829828337,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.984505774416569,
+      "component_2": -0.39010119359721074,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -0.37048956350607654,
+      "component_2": 1.2143887212398496,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.295723707291126,
+      "component_2": 1.19514154712288,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.115933501062001,
+      "component_2": -0.10091478427447953,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.988750805588154,
+      "component_2": 0.6094916908871397,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.3019476277670154,
+      "component_2": 0.12318381493592057,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.892565740921196,
+      "component_2": -0.7154566716230022,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.9083599984211332,
+      "component_2": 0.7376863280330781,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.323175104034277,
+      "component_2": 1.1118760343104412,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.019559725579658,
+      "component_2": -0.5972605861133715,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.338224460078253,
+      "component_2": -1.0911597970071227,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.169581084117029,
+      "component_2": -0.5484672929697112,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.4897927126012664,
+      "component_2": -0.49326555901680535,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.783029806053888,
+      "component_2": -1.3564275483823778,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.7704465228276405,
+      "component_2": 1.2680834007663009,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.893259056676861,
+      "component_2": 0.4744034475893315,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.3997966321718334,
+      "component_2": 1.1780219544439987,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.821288091809074,
+      "component_2": -1.7374268376523645,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.389162634033365,
+      "component_2": -0.14580162074251746,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.560947033188523,
+      "component_2": -0.34049969928354784,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.536590404568427,
+      "component_2": 1.173527935864783,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.123501483726917,
+      "component_2": -0.43405962436315093,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.6142973217603043,
+      "component_2": 1.4452444404304572,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.115182581423173,
+      "component_2": -0.5649827842696951,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.601998836306283,
+      "component_2": -0.7029947664991099,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.813659743989582,
+      "component_2": 0.17334946797156903,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.961775066913159,
+      "component_2": 1.2093643955521216,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.2201373064660395,
+      "component_2": 0.17935954337526994,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.9898187952144255,
+      "component_2": -0.20003379070951866,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.512230433090668,
+      "component_2": -2.6325003039706445,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.661968127846757,
+      "component_2": 1.4614849173472209,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.6407225946630213,
+      "component_2": 0.6205184930935559,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.726674905707103,
+      "component_2": -0.7547114326528686,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.336283410377618,
+      "component_2": 2.381351035621499,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.872415013355079,
+      "component_2": 0.9919419093537911,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.3406224397131545,
+      "component_2": -0.21190195804629042,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.275347025831266,
+      "component_2": 0.41637487020233976,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.287355551604662,
+      "component_2": 0.5036116725952979,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.96213124588367,
+      "component_2": -0.08292438654472534,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.71514268350316,
+      "component_2": -0.4818278462086525,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.6140727987551706,
+      "component_2": -0.7601268594033073,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 10.41117493835217,
+      "component_2": 1.6653387021950152,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.266527574110983,
+      "component_2": 0.856099634954461,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.657610236160531,
+      "component_2": -0.9703870997619148,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -6.183205981311456,
+      "component_2": -0.4235383023610737,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.567041522712401,
+      "component_2": -0.6492752952034095,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.336816328069215,
+      "component_2": 0.00807775925660792,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.411287182650291,
+      "component_2": 0.4699612539702329,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.862040292075655,
+      "component_2": -0.6598676310191962,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.867190161381628,
+      "component_2": -0.527919998350221,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.6006097838119384,
+      "component_2": 0.08585186814853785,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.1147085381317368,
+      "component_2": 0.8654524855280741,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.90454380652346,
+      "component_2": 0.15538130981848042,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.847587098626298,
+      "component_2": -2.088224177494581,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.732574847141074,
+      "component_2": -0.40501535117893894,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.314302886379619,
+      "component_2": -1.5110580768655737,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.230127386618198,
+      "component_2": -1.9243208293450564,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.6484310114438827,
+      "component_2": -0.6429191894637043,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.117428232778771,
+      "component_2": 1.9756491770517428,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.03363399606934,
+      "component_2": 0.32515014388074803,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.709458864718783,
+      "component_2": -0.9172043059154831,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.931025653203772,
+      "component_2": -0.22392554367498008,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.552401510149892,
+      "component_2": 0.32008613999142455,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 12.047339011175811,
+      "component_2": 3.7268620642820878,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 10.167488975745504,
+      "component_2": 1.442807297559554,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.190142249263754,
+      "component_2": -0.13089454169286796,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.916897680264487,
+      "component_2": 0.7400428211964822,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.442156032896186,
+      "component_2": 0.1972726254242403,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.0245358115962997,
+      "component_2": -0.2191320850940386,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.5812423330571015,
+      "component_2": 0.6849066569114228,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.7400546889824806,
+      "component_2": -0.09741311145083387,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.543970483829369,
+      "component_2": -0.3491075783778186,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.625719493629783,
+      "component_2": -0.25100645715723147,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.790957119253495,
+      "component_2": 0.6383703207796572,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.202142413199619,
+      "component_2": 0.8442388338390998,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.296228597446387,
+      "component_2": 0.299295562853203,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.205774705033859,
+      "component_2": -0.27794835327522804,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 10.301794297568875,
+      "component_2": 1.9874336205858043,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.1481619065672337,
+      "component_2": -0.04475940281911761,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.167942689249339,
+      "component_2": -0.704496484163073,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.272059716724964,
+      "component_2": 0.29736447567078983,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.292361665944785,
+      "component_2": 0.49380944092528267,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.766482021391667,
+      "component_2": 0.5772671899902946,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.307983938777948,
+      "component_2": -0.057682712119607515,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.677989124276582,
+      "component_2": 0.41242956694289035,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.780056190983086,
+      "component_2": -0.5020021882571868,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.286380712956856,
+      "component_2": 1.320907048407875,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.963820605544928,
+      "component_2": 0.2584566663683674,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.180668939738687,
+      "component_2": -1.5662085107844703,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.838643751112668,
+      "component_2": -0.05897057460668975,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.03740495898068,
+      "component_2": 0.6510910672546188,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.5961088153799317,
+      "component_2": -0.7609554182005596,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.131979575583777,
+      "component_2": 0.16018931446281925,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.490100381588757,
+      "component_2": -0.5631962110873374,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.071463853690408,
+      "component_2": -0.21074550259725555,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.271190184792346,
+      "component_2": -0.9607788551839036,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.533306244354858,
+      "component_2": 1.4419151854947003,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.635460875831509,
+      "component_2": -0.06139656568043961,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.3998247594205573,
+      "component_2": -0.7518644875632745,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.8253914890732545,
+      "component_2": 0.928646012117909,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.243039744522964,
+      "component_2": 0.3321768953519637,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.939319568228388,
+      "component_2": 1.11518467444575,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.3625012382596893,
+      "component_2": 1.5226578969414888,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.839212960397457,
+      "component_2": -1.4099454218695584,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.8292907737611515,
+      "component_2": 0.29801842955551905,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.696495268228862,
+      "component_2": 0.747874626353358,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -0.701602724532,
+      "component_2": 1.1267555603289736,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.7821312114913646,
+      "component_2": 0.6480732764013268,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.739437671009085,
+      "component_2": -0.21913848154565585,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.1732718946109166,
+      "component_2": 0.1410745792148873,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.373211737114929,
+      "component_2": 0.9227038636873743,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.008912641939759,
+      "component_2": -1.5229450734704102,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.1264741108292196,
+      "component_2": 1.8238811930220962,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 3.554045765424876,
+      "component_2": -3.447076934770351,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.872721297984416,
+      "component_2": -0.7499007240570279,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.682763929416547,
+      "component_2": 1.8246921863727366,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.437194008357626,
+      "component_2": 0.6942535360229343,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.958219627569175,
+      "component_2": 0.8973694871154478,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.282974973284366,
+      "component_2": 0.1683732282542323,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.1800467884349803,
+      "component_2": -0.07360618270016062,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.8831341343399135,
+      "component_2": -1.394414224046976,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.853992962109455,
+      "component_2": 0.15685767285059882,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.7215829461457925,
+      "component_2": 0.03605495552692162,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.666863208849385,
+      "component_2": 0.9487324123332286,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.6805480282864416,
+      "component_2": -0.33436999578493243,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.7939878739406083,
+      "component_2": 1.3754142024738911,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.5323329026927137,
+      "component_2": 0.8627680816135452,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.191255902933847,
+      "component_2": -2.528591423508722,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.743933976667181,
+      "component_2": -1.230891427848242,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.7461573109532385,
+      "component_2": -0.20468757991534403,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.888016470537062,
+      "component_2": -0.24883988422678271,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.192600048090014,
+      "component_2": -0.6499870680339583,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.550403368648461,
+      "component_2": -2.129247213930398,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.71530147598399,
+      "component_2": -0.48400199747487704,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.254256563737435,
+      "component_2": 1.414970664525164,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.135470128041732,
+      "component_2": 0.960842385631338,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.867221824120283,
+      "component_2": 0.04730746739730307,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.29445227072242,
+      "component_2": 1.0942038075673892,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 9.349465640266613,
+      "component_2": 1.186130686941027,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.9084325661822668,
+      "component_2": -1.1460486891383894,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.1513363620274006,
+      "component_2": 0.6987197815334056,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.764212205124086,
+      "component_2": -1.7882923070671453,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 3.9434131880045253,
+      "component_2": -3.232385422187882,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.640491733095182,
+      "component_2": -0.11830788234675538,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.352312156019064,
+      "component_2": -0.44401222031014953,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.8408906340784785,
+      "component_2": 0.5128345264513712,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.668400772320741,
+      "component_2": 0.6075901721338823,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.59053206021925,
+      "component_2": 1.1818385039722017,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 10.593680604133263,
+      "component_2": 1.78691980453614,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.521631055221981,
+      "component_2": -0.3460468065525504,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.581376864953471,
+      "component_2": -0.11936817540838973,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.6059649974285684,
+      "component_2": 0.5708561482801571,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.760987312154906,
+      "component_2": -1.6324953564827496,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8626685649819628,
+      "component_2": 0.49591427324202897,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.548389564518359,
+      "component_2": -1.4880132330394105,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.438931185767412,
+      "component_2": 1.1937242555201237,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.535588085629129,
+      "component_2": -1.353234980333518,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.008727007662248,
+      "component_2": 0.6031088205021149,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.893644864722061,
+      "component_2": -0.1938252076031617,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.877229336792312,
+      "component_2": -0.7836943395827589,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.6949236684532565,
+      "component_2": -2.732349080830069,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.165080222417743,
+      "component_2": 0.5424407578758519,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.746268819418614,
+      "component_2": -0.4156912573012477,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.815989440074375,
+      "component_2": 0.4150813806595153,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.5671175649221247,
+      "component_2": 0.3876668765009015,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.838666259085886,
+      "component_2": -0.4697049071808834,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.7361981151197163,
+      "component_2": 1.515662371338614,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.072654865108595,
+      "component_2": 1.4026560379280468,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.628787454757803,
+      "component_2": -0.23651013941744736,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 10.480385436247973,
+      "component_2": 2.086494329523603,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8227727692217996,
+      "component_2": 0.377591308364174,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.4822279735430683,
+      "component_2": 1.5253956845490606,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.86258188858164,
+      "component_2": -0.27250005393774046,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.314485906510033,
+      "component_2": -0.5793454483872864,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.146399403281208,
+      "component_2": -1.7041803430675984,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.611182259307906,
+      "component_2": 0.23806426048231089,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.145226713496978,
+      "component_2": 0.906456835860034,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.141843099169965,
+      "component_2": -2.4095467962594057,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.1309707781251852,
+      "component_2": 1.1922601994223712,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.235801956265478,
+      "component_2": -1.1881589824146062,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.524081591440233,
+      "component_2": 0.8295091792557798,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.185478598284865,
+      "component_2": -2.366851348227364,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.8785633113852622,
+      "component_2": 1.3408637113543946,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.343477662160358,
+      "component_2": -2.252470511990836,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.692962777983144,
+      "component_2": 0.5344318923611695,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.140057891077689,
+      "component_2": 0.47452027866557245,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.8150058642821563,
+      "component_2": 1.1025784085939918,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.32338684027382,
+      "component_2": 0.5554546310019148,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.409696457466016,
+      "component_2": -0.3693693750798914,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.821080004002425,
+      "component_2": -0.030316970860120307,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.891313361868952,
+      "component_2": 0.3542815512871087,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.3167077381805843,
+      "component_2": 0.46882700262324306,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.1890693000844195,
+      "component_2": 0.004861095721857112,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.947220784444742,
+      "component_2": 0.9428470926716699,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.0049468948453715,
+      "component_2": 0.11698928795971142,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.8030146152653153,
+      "component_2": 0.8245116425813919,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -6.068566988014226,
+      "component_2": -0.44422079614460586,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.13739804128833,
+      "component_2": 0.028219175955563003,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.3691572643807426,
+      "component_2": 0.25745308506311204,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.467174451250479,
+      "component_2": 0.9254589030404432,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -6.083240527429982,
+      "component_2": 0.2549893324799726,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.777003914609875,
+      "component_2": -0.06222046585067886,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.098379562692806,
+      "component_2": 0.7827695547914644,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.399997476487034,
+      "component_2": -0.49685754246695524,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.527413683259642,
+      "component_2": 0.7235339100973022,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.673122321926108,
+      "component_2": 1.8263126003803123,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.844535835550836,
+      "component_2": -0.5922198355287236,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.643231714461507,
+      "component_2": 0.40872171455015405,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.272573683312739,
+      "component_2": -0.9277574685146774,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.48317240807409,
+      "component_2": 0.7884766945451673,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.800215511330052,
+      "component_2": 1.4435873069723826,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.382833786794112,
+      "component_2": -1.129526966582354,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.872003058865033,
+      "component_2": -1.0763203381864699,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.332283467894659,
+      "component_2": -1.9709772437409256,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.296996723642952,
+      "component_2": -0.6801603426861718,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.180361956389894,
+      "component_2": -1.159717138805874,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.688586018968714,
+      "component_2": 0.15752144059003115,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.4825042580704473,
+      "component_2": -0.11812357514013172,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.911547085584573,
+      "component_2": 0.23190313200864665,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.8196747380661016,
+      "component_2": -0.987197209971221,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.688986712106299,
+      "component_2": 1.175170069945814,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.761066821235119,
+      "component_2": 0.09040632100124668,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.313471510906972,
+      "component_2": 0.24014817755845996,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.285361030542067,
+      "component_2": 1.062930171121323,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.609395305565673,
+      "component_2": -0.8380438580270919,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.029541527548763,
+      "component_2": -0.3811070226116797,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.875014951458464,
+      "component_2": -0.6194525652618594,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.373634061900903,
+      "component_2": 0.8789945702634157,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.42990161810954,
+      "component_2": 0.1858712715294928,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.267556902686561,
+      "component_2": 0.9174639961463242,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.900185796396869,
+      "component_2": -0.6814102512910694,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.586154635716257,
+      "component_2": 0.8238394261418236,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.623921006010402,
+      "component_2": 0.02578524304854568,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.0908513527099117,
+      "component_2": -0.4161528202175617,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.154498044042466,
+      "component_2": -0.408020268922094,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.654360790771365,
+      "component_2": 1.046587114014443,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.013335224050657,
+      "component_2": -1.027539231051854,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.1407989160836145,
+      "component_2": -0.17519875508373417,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.202312443135378,
+      "component_2": 1.1904378849052648,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.052160078918975,
+      "component_2": 1.540013029868561,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.855448659779508,
+      "component_2": 0.618929560766297,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.346694238611498,
+      "component_2": 1.132584182842372,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.301453539755714,
+      "component_2": -0.14167672277627474,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.022750699217987,
+      "component_2": -0.5576335294799719,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.6284105533622224,
+      "component_2": 0.07555696230430442,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.552654010959621,
+      "component_2": 0.3929625210723344,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.780790815404131,
+      "component_2": 0.9020635320235257,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.261495630548527,
+      "component_2": 1.1277801982950564,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.126908655615626,
+      "component_2": -0.7388888142187042,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.200537318017762,
+      "component_2": -0.005413620269123953,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.91951427926093,
+      "component_2": 0.24789218307247296,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.1803826729333782,
+      "component_2": 0.9216739630670361,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -6.388845413565388,
+      "component_2": 0.2075009805482253,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -1.91980794984128,
+      "component_2": 0.9125203088716063,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.21938311503483,
+      "component_2": 0.2802306331204889,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.6098952389095498,
+      "component_2": 0.5478289247351498,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.29224964991807,
+      "component_2": 0.6471252829632803,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.436279731195443,
+      "component_2": -1.4701619598918683,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.281585747528588,
+      "component_2": -0.693337277592498,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.784798877461387,
+      "component_2": -0.8492688226012035,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.471782272106081,
+      "component_2": -0.16168864702948582,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.6536798749689083,
+      "component_2": -0.7348060522808808,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.298342187414865,
+      "component_2": -0.1278764488054307,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8399707011353463,
+      "component_2": -0.33052132320801775,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.472269532823801,
+      "component_2": -0.38313105684080284,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.353297886638524,
+      "component_2": 0.01974257564279469,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.4325488566038977,
+      "component_2": 1.784642778812639,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.800949435241229,
+      "component_2": 0.7408717413769139,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.803574915215425,
+      "component_2": 0.39882713739852704,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.463739659307347,
+      "component_2": 1.5791908775695376,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.314424157829389,
+      "component_2": 0.7372284962845512,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.0426154727719155,
+      "component_2": -1.11574174707372,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.587593253283762,
+      "component_2": -0.17744773648443868,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.101586693545766,
+      "component_2": -0.9842536267979725,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.0407662465706053,
+      "component_2": 1.110834334453635,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.188995685088813,
+      "component_2": -1.6818173494254012,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.729130289833254,
+      "component_2": -0.7278654568014886,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.314625540588679,
+      "component_2": 0.0664519145787068,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.956367655007009,
+      "component_2": -0.7852983692269859,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.9940430125416206,
+      "component_2": 1.5865204593180948,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 13.363934263126557,
+      "component_2": 4.142754155836073,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.5359413889646056,
+      "component_2": 0.32655473734565277,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.567094448627522,
+      "component_2": 1.6124453911413497,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.6642821229731197,
+      "component_2": 0.11019330788347759,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.952966304324338,
+      "component_2": -0.07317075945147877,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.378219425895274,
+      "component_2": 0.37677429310889465,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.303828908107953,
+      "component_2": 0.6365695020215014,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.380224817086684,
+      "component_2": -2.084808597482393,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.914159271120791,
+      "component_2": 0.5210559241420327,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.5472500967612923,
+      "component_2": -0.9796820763118106,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.465467636273008,
+      "component_2": 1.2261352804873766,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.009807392580534,
+      "component_2": -1.3162673129937303,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.946854465819747,
+      "component_2": -0.09860227484374207,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.165345954924732,
+      "component_2": -0.22118846473554754,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.918294885078982,
+      "component_2": 1.0826356006196391,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.5481407669188165,
+      "component_2": -0.1610717674758675,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.5244282530670645,
+      "component_2": -0.7878937199957647,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.273104664107823,
+      "component_2": 0.04258897807072515,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.3115160044266325,
+      "component_2": 0.7091743480421684,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.646357525672588,
+      "component_2": 0.2965220582755066,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.086847825095596,
+      "component_2": 1.6980152519606193,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -0.5138803493899982,
+      "component_2": 2.1886483141192983,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.206911189985684,
+      "component_2": -1.9971590085245907,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.678335716687148,
+      "component_2": -2.584844934871782,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.124796460665202,
+      "component_2": -0.38845781317425576,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.0115520140333665,
+      "component_2": 0.25637173862564566,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 8.68243901190163,
+      "component_2": 1.188768026772685,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.539206619523455,
+      "component_2": 0.5902071511666662,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.821878609747779,
+      "component_2": -0.8858910439357004,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.7060150493279025,
+      "component_2": 1.4259527867795398,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.757385924661349,
+      "component_2": -2.920652249890672,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.047752386989583,
+      "component_2": -1.3278520964220064,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.485437082127476,
+      "component_2": 0.6841052040794509,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.3289969896014266,
+      "component_2": 0.2634404436961333,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.62342896339863,
+      "component_2": 1.950495805977205,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.346054133090412,
+      "component_2": -0.6945814027749648,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.1736845290334816,
+      "component_2": -0.5389201664272747,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.3492699136313924,
+      "component_2": -0.5438274788099733,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.621510234886806,
+      "component_2": -0.8683118882407115,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.998388180263607,
+      "component_2": -0.2365091315855281,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.616776622834024,
+      "component_2": -1.6840205240866553,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.869003941407746,
+      "component_2": 0.6474349171582219,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8701648116509304,
+      "component_2": -0.9112728661374803,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.712134694561046,
+      "component_2": -0.024640749011155094,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.181029915456811,
+      "component_2": -2.8123227609710924,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.585456401000332,
+      "component_2": 0.22552670561402977,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.4711328752324953,
+      "component_2": -0.4990920935522354,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.22074353475681,
+      "component_2": 0.8652018911371329,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.1123083236614235,
+      "component_2": 0.9965990306098362,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.88402217700276,
+      "component_2": 0.585487863633773,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.419035711491251,
+      "component_2": 0.48053920093745717,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 6.940005585541173,
+      "component_2": -0.2728837831128317,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.097738264746569,
+      "component_2": -0.7810666480208752,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.112095822478953,
+      "component_2": 0.8102949980324681,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.8571818723338858,
+      "component_2": -0.32824179908522666,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.862179180004993,
+      "component_2": -0.8852676099137256,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.9302332352045735,
+      "component_2": 0.38835151413699975,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.991929446629065,
+      "component_2": 0.9152087634471471,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.8796679815092885,
+      "component_2": -1.3619459627380976,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.7895326422940876,
+      "component_2": 0.6362957643342853,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 10.352710433332021,
+      "component_2": 1.826487876717529,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.006356504328384,
+      "component_2": 0.1762884488665435,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.696650764100387,
+      "component_2": -1.2954565212285658,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.6782005465150327,
+      "component_2": 1.1552231316137522,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.607468363273526,
+      "component_2": 0.737049088657848,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.235467664190171,
+      "component_2": 1.0714354788963405,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.774248902290582,
+      "component_2": -1.5696786970493903,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.01819765963787,
+      "component_2": 0.6772954666317759,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.909728563745159,
+      "component_2": 0.16397925044633865,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.495722046286652,
+      "component_2": 0.3335328479353308,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.258580835982192,
+      "component_2": -0.03559065074564671,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.424399714053969,
+      "component_2": 0.32514883570704,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.335773446982952,
+      "component_2": 1.0446805091003881,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.1311504891288955,
+      "component_2": 1.0217506117251602,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.601703254410033,
+      "component_2": -0.12030267677154427,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 7.952093456367463,
+      "component_2": 0.6530035340386036,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.508437719807266,
+      "component_2": -0.6230279806859826,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 10.631716632845041,
+      "component_2": 1.8110010741688356,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.1210228013955668,
+      "component_2": -0.9217087564974378,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.4278604461500546,
+      "component_2": 1.8938166139868429,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.982319433989641,
+      "component_2": -0.3831479923554184,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.69589174097743,
+      "component_2": 0.4786594348403739,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.890332221906103,
+      "component_2": -1.3279237625967895,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.2550983378180085,
+      "component_2": -0.213890301136054,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.4555637379364015,
+      "component_2": 0.8040284355366083,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.632539043214593,
+      "component_2": -1.9584197685844202,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.127602512668187,
+      "component_2": -1.2071235491616719,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.9239932259985526,
+      "component_2": 0.6620867585544019,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.807461486286229,
+      "component_2": 0.7161108671239589,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.597752348174296,
+      "component_2": 1.3691860682822252,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.388050049288992,
+      "component_2": 0.5146888560525866,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.6050465496959045,
+      "component_2": -0.1084502173245383,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 9.568049826970677,
+      "component_2": 1.3292931397040633,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 3.032371369259087,
+      "component_2": -3.056457516205029,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.3324370082359,
+      "component_2": 1.2533694506568906,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.309520384063557,
+      "component_2": 0.5978486815457771,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.973146321185485,
+      "component_2": -0.6933408308747815,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.8953169589080368,
+      "component_2": -0.04389467946616321,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.3555265501099623,
+      "component_2": 0.6468804229008569,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.18941202638916,
+      "component_2": 0.964814107174206,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 8.948874039070768,
+      "component_2": 0.5369953057708017,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.4082552751165025,
+      "component_2": -0.08854524529588303,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.139974012176133,
+      "component_2": 0.3572297837936418,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.6547356452955704,
+      "component_2": 0.30000413466859754,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.594537154964565,
+      "component_2": -1.314768746565477,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.29161691027895,
+      "component_2": 0.4475754552888844,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.550299051858892,
+      "component_2": -1.3457507336142385,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.429919153429289,
+      "component_2": -1.8620634618799627,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 9.079089766504875,
+      "component_2": 0.6808176267394188,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.330772286867406,
+      "component_2": 0.16729680762531984,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.98944291716718,
+      "component_2": 0.1456018604489273,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.3544259374385215,
+      "component_2": -0.5982237844241567,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 8.675488628013682,
+      "component_2": 0.5356863869397444,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.328344050805217,
+      "component_2": 0.7001089402093328,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.415167444607148,
+      "component_2": 1.7662576857627528,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.3264599719634997,
+      "component_2": -0.40086089654490564,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.355722606519123,
+      "component_2": 0.7361305453226095,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -2.745689594079499,
+      "component_2": -0.2998876311275964,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.002673723102575,
+      "component_2": 0.14637243140057166,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.9800014699493893,
+      "component_2": 0.06745504755609488,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.4256254617998,
+      "component_2": -0.08730956106921894,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.158896080210701,
+      "component_2": -3.2972730192015973,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.362335661147366,
+      "component_2": -0.4716975731982842,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.197518818120482,
+      "component_2": -0.3081094058359142,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -4.256759568084984,
+      "component_2": -0.805725095676415,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.325056215783384,
+      "component_2": -0.9160617584934627,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.301461023541347,
+      "component_2": 0.02668237254835759,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.3499274939492025,
+      "component_2": 0.7197402239704473,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.2788072039434706,
+      "component_2": -0.2024351786643166,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.511464535787052,
+      "component_2": -0.049411240931235056,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.5537215410019733,
+      "component_2": 0.05688576561986736,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -1.4708831100158353,
+      "component_2": -0.07580854762889544,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.473560582269061,
+      "component_2": -0.8202119880148189,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -0.494709124367791,
+      "component_2": 1.069853220285026,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -5.186238661110185,
+      "component_2": -1.3192872534872464,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.735217638920357,
+      "component_2": 0.8255070296303373,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.2840767425316635,
+      "component_2": 0.14042996223103899,
+      "cluster": 0,
+      "class": "QSO"
+    },
+    {
+      "component_1": 3.800173916578661,
+      "component_2": -1.8728275970963466,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.229103784374608,
+      "component_2": -1.7185669948192768,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.109788691161091,
+      "component_2": -1.121906155825414,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.5947610041943463,
+      "component_2": 0.38130465631684274,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.465062200737105,
+      "component_2": -2.886555823245395,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 4.1789777354689885,
+      "component_2": -2.4325760959563354,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.1238380395501935,
+      "component_2": 0.8491330486233011,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 5.433417779446483,
+      "component_2": -2.2507369619784683,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.9768910790059184,
+      "component_2": 0.12055697346713856,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -4.99489957325607,
+      "component_2": 0.24510420860807614,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -5.318287076347296,
+      "component_2": -1.3480891048558306,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -2.695784745720749,
+      "component_2": 0.8080802074421101,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.012188013025263,
+      "component_2": -1.6133676256290954,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -5.34306967509518,
+      "component_2": 0.6530426023273606,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 3.1633828623999225,
+      "component_2": -2.692069250817198,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.5228070953885737,
+      "component_2": 0.1799673965067825,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.170413073099715,
+      "component_2": -2.6450186079745137,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.9481011434146076,
+      "component_2": -0.4395536188377349,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": -3.8425820064605247,
+      "component_2": 1.3387961013769925,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 9.244649031534745,
+      "component_2": 1.078031599729627,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.715310990329611,
+      "component_2": 0.1701954458619781,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.544234204276115,
+      "component_2": -1.2060539458526875,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -1.8287745000911162,
+      "component_2": 1.0383256155749123,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 4.183413998997569,
+      "component_2": -1.6465799124238814,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 6.851811986991938,
+      "component_2": -0.4308958716212672,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -2.995985289691081,
+      "component_2": -0.11825663272844622,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 6.500702071778061,
+      "component_2": -1.406824874551745,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.4355040767420935,
+      "component_2": -0.05642262708783363,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 7.460026311773083,
+      "component_2": -0.1978360700266677,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -4.413659466057236,
+      "component_2": 0.02007328619001214,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": 4.554637448086379,
+      "component_2": -2.319468205981792,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 5.405937511526722,
+      "component_2": -1.9949535840503643,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": 7.886023467726231,
+      "component_2": -0.19442312139467788,
+      "cluster": 1,
+      "class": "Star"
+    },
+    {
+      "component_1": -3.8329677054082687,
+      "component_2": 1.4477869245728314,
+      "cluster": 2,
+      "class": "QSO"
+    },
+    {
+      "component_1": -3.66978584130824,
+      "component_2": 0.1026657378641076,
+      "cluster": 0,
+      "class": "Galaxy"
+    },
+    {
+      "component_1": 5.410733801233955,
+      "component_2": -1.0021182294665962,
+      "cluster": 1,
+      "class": "Star"
+    }
+  ]
+}

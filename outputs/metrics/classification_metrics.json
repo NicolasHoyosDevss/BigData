@@ -1,0 +1,43 @@
+{
+  "model_name": "KNeighborsClassifier",
+  "n_neighbors": 5,
+  "features": [
+    "u",
+    "g",
+    "r",
+    "i",
+    "z",
+    "redshift",
+    "snr_r",
+    "extinction_r"
+  ],
+  "target": "class",
+  "train_samples": 700,
+  "test_samples": 300,
+  "metrics": {
+    "accuracy": 0.9766666666666667,
+    "labels": [
+      "Galaxy",
+      "QSO",
+      "Star"
+    ],
+    "confusion_matrix": [
+      [
+        105,
+        0,
+        0
+      ],
+      [
+        7,
+        83,
+        0
+      ],
+      [
+        0,
+        0,
+        105
+      ]
+    ],
+    "test_samples": 300
+  }
+}
