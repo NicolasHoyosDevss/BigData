@@ -16,7 +16,7 @@ from src.preprocessing import NUMERIC_COLUMNS
 
 TARGET_COLUMN = "class"
 DEFAULT_NEIGHBORS = 5
-DEFAULT_TEST_SIZE = 0.2
+DEFAULT_TEST_SIZE = 0.3
 DEFAULT_RANDOM_STATE = 42
 
 
@@ -24,11 +24,12 @@ def prepare_classification_data(
     dataframe: pd.DataFrame,
     target_column: str = TARGET_COLUMN,
 ) -> tuple[pd.DataFrame, pd.Series]:
-
     if target_column not in dataframe.columns:
         raise ValueError(f"Target column not found: {target_column}")
 
-    feature_columns = [column for column in NUMERIC_COLUMNS if column in dataframe.columns]
+    feature_columns = [
+        column for column in NUMERIC_COLUMNS if column in dataframe.columns
+    ]
     if not feature_columns:
         raise ValueError("No numeric feature columns available for classification.")
 
@@ -52,7 +53,6 @@ def evaluate_classifier(
     features_test: pd.DataFrame,
     target_test: pd.Series,
 ) -> dict[str, Any]:
-
     predictions = model.predict(features_test)
     labels = sorted(target_test.unique().tolist())
 
@@ -98,4 +98,3 @@ def run_knn_classification(
         "test_samples": int(len(target_test)),
         "metrics": metrics,
     }
-
